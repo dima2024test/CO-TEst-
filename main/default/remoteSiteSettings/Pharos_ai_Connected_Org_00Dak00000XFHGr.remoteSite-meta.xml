@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RemoteSiteSetting xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Pharos.ai login URL for connected org Source - production (00Dak00000XFHGr)</description>
+    <disableProtocolSecurity>false</disableProtocolSecurity>
+    <isActive>true</isActive>
+    <url>https://cotestsource-dev-ed.develop.my.salesforce.com</url>
+</RemoteSiteSetting>
